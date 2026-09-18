@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+work/
+build/
+dist/
+*.spec
+.env
+.env.*
+!.env.example
+*.log
+**/.test_work/
